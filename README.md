@@ -14,16 +14,20 @@
 
 ### Working with:
 
-#### Cloud/Infra
+#### Cloud
 > AWS | Google Cloud
 
-> VMWare
+#### Infra
+> Docker
 
 #### Web Servers
 > NGINX | Apache | OpenLiteSpeed
 
 #### PROXY/LoadBalancer
 > NGINX | HAProxy
+
+#### Monitoring
+> Zabbix | Grafana
 
 #### Languages
 > Python | PHP | Shellscript | HTML | CSS | Javascript

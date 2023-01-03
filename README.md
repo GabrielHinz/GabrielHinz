@@ -7,33 +7,6 @@
 
 **- Software Eng. Student** 
 
-**- Working as Devops | SRE**
+**- Working as Devops Eng**
 
 **- Currently Working for [ESWEB](https://esweb.com.br)**
-
-
-### Working with:
-
-#### Cloud
-> AWS | Google Cloud
-
-#### Infra
-> Docker
-
-#### Web Servers
-> NGINX | Apache | OpenLiteSpeed
-
-#### PROXY/LoadBalancer
-> NGINX | HAProxy
-
-#### Monitoring
-> Zabbix | Grafana
-
-#### Languages
-> Python | PHP | Shellscript | HTML | CSS | Javascript
-
-#### Database
-> MySQL/MariaDB | SQLServer
-
-#### SO
-> Linux | Windows

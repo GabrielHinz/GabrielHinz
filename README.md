@@ -1,12 +1,14 @@
 # Hi there, I'm Gabriel
+ [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielhinz)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GabrielHinz)](https://github.com/GabrielHinz)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gabrielhinz)](https://twitter.com/gabrielhinz)
+## About me:
 
-### About me:
+**- 👨‍🎓 Software Engineer**
 
-**- Software Eng. Student** 
+**- 🐍 Python Developer**
 
-**- Working as Devops Eng**
+**- ☁️ AWS Certified**
 
-**- Currently Working for [Bluesoft](https://bluesoft.com.br/)**
+**- 👷 Working as Devops Engineer**
+
+**- 🚀 Currently Working for [Bluesoft](https://bluesoft.com.br/) 💙**

@@ -7,6 +7,8 @@
 
 **- 🐍 Python Developer**
 
+**- 👨‍💻 SysAdmin**
+
 **- ☁️ AWS Certified**
 
 **- 👷 Working as Devops Engineer**
